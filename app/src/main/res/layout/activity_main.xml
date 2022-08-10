@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:Layout_height="wrap_content"
+        android:Layout_width="match_parent"
+        android:text="Dwi Rani Syarifah"
+        android:textAlignment="textStart"
+        android:textSize="40dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nis 2986"
+        android:textAlignment="textStart"
+        android:textSize="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fifit Sholikhatul Mufalah"
+        android:textAlignment="textStart"
+        android:textSize="36dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nis 2989"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fika Ismatul Hawa"
+        android:textAlignment="textStart"
+        android:background="#26D52D"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nis 2990"
+        android:textAlignment="textStart"
+        android:background="#26D52D"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fiki Zulkarnain"
+        android:textAlignment="textStart"
+        android:textSize="38dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nis 2991"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Heydaristo Zhahir Razaq"
+        android:textAlignment="textStart"
+        android:textSize="34dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nis 2996"
+        android:textAlignment="textStart"
+        android:textSize="30dp"/>
+
+</LinearLayout>
